@@ -1,0 +1,8 @@
+{
+  "name": "Assignment 15",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "354983e0"
+}
